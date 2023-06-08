@@ -21,7 +21,7 @@ provider "provider_name" {}
 ```hcl
 resource "resource_name" {
   bug_fix      = <STRING>
-  doc          = <STRING>
+  doc          = <BOOL>
   enhancement  = <STRING>
   feature      = <STRING>
   new_resource = <BOOL>

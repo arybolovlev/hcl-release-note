@@ -8,7 +8,7 @@ The release notes contain entries designed to replicate the structure of a Terra
 
  - `data_source` -- describes the data source level changes, one per resource.
 
-The file for release notes has the extension ***.cn***, which stands for "Change Note".
+The file for release notes has the extension ***.cl***, which stands for "Change Log".
 
 ## Provider
 
